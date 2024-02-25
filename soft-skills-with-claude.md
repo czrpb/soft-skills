@@ -1,5 +1,7 @@
 # Discussion w/ Claude on Soft Skills
 
+https://claude.ai/chat/6e015a94-8062-4961-ab90-2492d49c122e
+
 ## Give me a list of soft skills.
 
 Here are some common soft skills:
