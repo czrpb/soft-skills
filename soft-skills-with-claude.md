@@ -285,39 +285,39 @@ Here is an imagined dialog between 4 collaborators that turns conflictive then i
 
 **Collaborator 2**: I agree having clarity on the goals and deadlines will be helpful. What are everyone's thoughts?
 
-**Ethicist**: They're off to a good start with open communication.
+> **Ethicist**: They're off to a good start with open communication.
 
 **Collaborator 3**: I actually think finalizing the budget has to be our priority before any other planning.
 
 **Collaborator 4**: No, I disagree. Determining team roles is the most crucial first step. The rest depends on that structure.
 
-**Soft Skills Expert**: They need better active listening and empathy now.
+> **Soft Skills Expert**: They need better active listening and empathy now.
 
 **Collaborator 2**: I hear what you're saying, but don't we need at least a general scope first before finalizing anything else?
 
 **Collaborator 3**: You're completely ignoring the fact that without a budget, this is pointless!
 
-**Mediator**: Tensions are rising quickly. Empathy and compassion are required.
+> **Mediator**: Tensions are rising quickly. Empathy and compassion are required.
 
 **Collaborator 4**: Frankly, I don't think you two understand the intricacies here. We have to start with team structure, period.
 
 **Collaborator 1**: Okay, let's take a step back. I think we're losing sight of finding a solution we all feel good about.
 
-**Soft Skills Expert**: Helpful reset to lower tensions.
+> **Soft Skills Expert**: Helpful reset to lower tensions.
 
 **Collaborator 2**: You're right, apologies if I got overly-fixated on my own view. What's most important to each of you here?
 
-**Ethicist**: Excellent show of wisdom to shift to understanding others first.
+> **Ethicist**: Excellent show of wisdom to shift to understanding others first.
 
 **Collaborator 4**: I'm willing to be flexible on the order as long as we agree roles and responsibilities come first. I can explain why if needed.
 
-**Mediator**: They are listening again and recognizing shared interests.
+> **Mediator**: They are listening again and recognizing shared interests.
 
 **Collaborator 3**: I appreciate you saying that. Getting aligned on budget is my main concern. If we do that quickly, I can adapt on the other details.
 
 **Collaborator 1**: It sounds like we're all willing to collaborate and find an approach that works for everyone. Let's build from that spirit.
 
-**Ethicist**: Wise priorities - start from a place of care, connection and mutual understanding. Well done.
+> **Ethicist**: Wise priorities - start from a place of care, connection and mutual understanding. Well done.
 
 Let me know if you would like me to expand this dialogue further. I'm happy to keep practicing with your constructive feedback.
 
@@ -331,31 +331,31 @@ Here's a continuation of the dialogue with the collaborators utilizing soft skil
 
 **Collaborator 2**: I know we didn't account for a sustainability plan previously. Let's approach this thoughtfully together.
 
-**Soft Skills Expert**: Excellent use of adaptability and calm communications.
+> **Soft Skills Expert**: Excellent use of adaptability and calm communications.
 
 **Collaborator 4**: I appreciate you keeping perspective. A rushed plan won't serve us long-term.
 
 **Collaborator 3**: I'm feeling anxious about getting this done so quickly, but I trust if we collaborate closely we can handle it.
 
-**Ethicist**: Communicating their feelings productively while extending good faith.
+> **Ethicist**: Communicating their feelings productively while extending good faith.
 
 **Collaborator 1**: You're right, if we support each other we can find an innovative solution. Let's brainstorm ideas first before deciding anything.
 
-**Mediator**: Smart to start with creative ideation together rather than jumping to conclusions.
+> **Mediator**: Smart to start with creative ideation together rather than jumping to conclusions.
 
 **Collaborator 2**: Those are great ideas! I'm going to summarize the key points so we have clarity. Please refine or expand as needed.
 
 **Collaborator 4**: Thanks for doing that. It helps ensure we captured everything before moving forward.
 
-**Soft Skills Expert**: Excellent facilitation to synthesize ideas and check alignment.
+> **Soft Skills Expert**: Excellent facilitation to synthesize ideas and check alignment.
 
 **Collaborator 3**: I really appreciate everyone's patience and teamwork through this curveball. I feel hopeful we can present a solid plan to leadership together.
 
-**Ethicist**: Voicing appreciation - maintaining ethical care and compassion.
+> **Ethicist**: Voicing appreciation - maintaining ethical care and compassion.
 
 **Collaborator 1**: Agreed, by supporting each other we can adapt and accomplish great things collaboratively. Let's keep up this positive spirit!
 
-**Mediator**: Affirming mutual commitment to ethical collaboration. Well done.
+> **Mediator**: Affirming mutual commitment to ethical collaboration. Well done.
 
 Let me know if you would like me to extend this dialogue further as the collaborators continue responding ethically under stress.
 
@@ -374,36 +374,36 @@ Got it, here's a continuation of the dialogue where Venu's communication degrade
 
 **Vida**: I agree those make the most sense given our timeline and resources. Well done narrowing it down Vivaan.
 
-**Ethicist**: Vida shows appreciation and acknowledges contributions.
+> **Ethicist**: Vida shows appreciation and acknowledges contributions.
 
 **Varsha**: I have some concerns about option A. I don't think it aligns with leadership's goals. Options B or C would be better.
 
 **Venu**: I really disagree. Option A is clearly the right choice here. You two just aren't seeing its potential.
 
-**Soft Skills Expert**: Venu is being dismissive rather than applying empathy.
+> **Soft Skills Expert**: Venu is being dismissive rather than applying empathy.
 
 **Vivaan**: Venu, I know you feel strongly about option A. Help us understand what we may be missing about its potential?
 
-**Mediator**: Vivaan demonstrates patience and non-judgment.
+> **Mediator**: Vivaan demonstrates patience and non-judgment.
 
 **Venu**: Isn't it obvious? Option A allows us to move fastest while cutting costs. I don't know why I have to spell everything out here.
 
 **Varsha**: Venu, I sense some frustration, but we're on the same team. Can you explain your perspective without diminishing ours?
 
-**Ethicist**: Varsha calls in compassion while upholding dignity.
+> **Ethicist**: Varsha calls in compassion while upholding dignity.
 
 **Venu**: You're right, I'm feeling irritated but that isn't fair to take out on you all. I apologize. Let's walk through the pros and cons together openly.
 
-**Soft Skills Expert**: Venu reflects and resets communication positively.
+> **Soft Skills Expert**: Venu reflects and resets communication positively.
 
 **Vida**: I really appreciate you acknowledging that Venu. Let's look at all options with fresh eyes.
 
-**Mediator**: Gracefully redirects focus to shared goals.
+> **Mediator**: Gracefully redirects focus to shared goals.
 
 **Varsha**: Excellent idea Vida. Venu, thank you for your openness - I know we all want what's best here.
 
 **Venu**: You're welcome, and thanks for the patience. I'm reminded we work better as a team.
 
-**Ethicist**: Recognizing interdependence and relationship - very caring.
+> **Ethicist**: Recognizing interdependence and relationship - very caring.
 
 Let me know if you would like me to expand on any part of this dialogue further. I enjoyed practicing this collaborative scenario with soft skills!
