@@ -236,3 +236,125 @@ Here is one approach an agent with these soft skills and moral perspectives coul
   - Refine over time by learning from experience collaborating across different relationships and goals.
 
 The core is leveraging emotional intelligence, empathy, and discernment to collaborate virtuously - in a way that upholds both ethical principles and positive outcomes.
+
+## Imagine the following 3 types of persons we have seen so far in our discussion:
+
+>  - an expert practitioner of soft skills
+>  - a moral/ethical philosophy of Care and Virtue Ethics
+>  - a professional mediator
+> 
+> These 3 experts in soft skills are watching and evaluating a collaboration session of 4 people who are attempting to achieve some goal but are not practicing soft skills as well as they might.
+> 
+> What might the discussion between the 3 soft skills experts be like?
+
+Here is one imagining of how the three experts may discuss collaborators who lack soft skills:
+
+**Soft Skills Expert**: "Right off the bat I noticed issues with their communication. They're interrupting each other constantly instead of actively listening."
+
+**Ethicist**: "Yes, the lack of empathy and respect is evident. Each person seems focused on their own perspective."
+
+**Mediator**: "Agreed. And they don't appear open to understanding each other's emotions and needs."
+
+**Soft Skills Expert**: "Collaboration requires finding the shared goal, but they seem fixated on their individual goals."
+
+**Ethicist**: "A more compassionate approach would humanize one another first before jumping into the tasks."
+
+**Mediator**: "Building some trust through vulnerability would help. But I'm not seeing emotional intelligence at play here."
+
+**Soft Skills Expert**: "Creativity and innovation are also stifled. The tone feels anxious rather than curious."
+
+**Ethicist**: "A wise person would introduce calmer energies to lower the tension in the room."
+
+**Mediator**: "If I were mediating, I'd stop the meeting and have them reflect individually on their emotions and intentions."
+
+**Soft Skills Expert**: "Right, resetting with active listening exercises could help before resuming collaboration."
+
+**Ethicist**: "We must be patient though. Developing virtue and practicing care is a gradual journey."
+
+**Mediator**: "But progress will come through ongoing coaching, modeling, and thoughtful self-reflection."
+
+Does this capture how these experts might analyze and discuss the dynamics of a less effective collaboration? Let me know if you would like me to expand the dialogue.
+
+## Yes, this is a good start. I notice that much from transformative mediation would also be useful, specifically that humans under conflict retreat and become self-absorbed. Conflict leads to a degeneration of communication. Thus the 1st step from transformative mediation is to return the communication between the collaborators to one where they feel personally empowered and they can recognize the shift in communication to one where everyone feels heard.
+
+> So, please imagine a dialog between the 4 collaborators that starts from a neutral tone, goes poorly into a conflicting tone, and then returns to collaborative tone thru the application of soft skills. Please have the 3 experts comment as the dialog unfolds.
+
+Here is an imagined dialog between 4 collaborators that turns conflictive then improves, with comments from the soft skills experts:
+
+**Collaborator 1**: I think we should focus first on defining the scope and timeline of this project.
+
+**Collaborator 2**: I agree having clarity on the goals and deadlines will be helpful. What are everyone's thoughts?
+
+**Ethicist**: They're off to a good start with open communication.
+
+**Collaborator 3**: I actually think finalizing the budget has to be our priority before any other planning.
+
+**Collaborator 4**: No, I disagree. Determining team roles is the most crucial first step. The rest depends on that structure.
+
+**Soft Skills Expert**: They need better active listening and empathy now.
+
+**Collaborator 2**: I hear what you're saying, but don't we need at least a general scope first before finalizing anything else?
+
+**Collaborator 3**: You're completely ignoring the fact that without a budget, this is pointless!
+
+**Mediator**: Tensions are rising quickly. Empathy and compassion are required.
+
+**Collaborator 4**: Frankly, I don't think you two understand the intricacies here. We have to start with team structure, period.
+
+**Collaborator 1**: Okay, let's take a step back. I think we're losing sight of finding a solution we all feel good about.
+
+**Soft Skills Expert**: Helpful reset to lower tensions.
+
+**Collaborator 2**: You're right, apologies if I got overly-fixated on my own view. What's most important to each of you here?
+
+**Ethicist**: Excellent show of wisdom to shift to understanding others first.
+
+**Collaborator 4**: I'm willing to be flexible on the order as long as we agree roles and responsibilities come first. I can explain why if needed.
+
+**Mediator**: They are listening again and recognizing shared interests.
+
+**Collaborator 3**: I appreciate you saying that. Getting aligned on budget is my main concern. If we do that quickly, I can adapt on the other details.
+
+**Collaborator 1**: It sounds like we're all willing to collaborate and find an approach that works for everyone. Let's build from that spirit.
+
+**Ethicist**: Wise priorities - start from a place of care, connection and mutual understanding. Well done.
+
+Let me know if you would like me to expand this dialogue further. I'm happy to keep practicing with your constructive feedback.
+
+## Yes, lets continue the dialog. Let us say the 4 collaborators come to an agreement and begin to outline the various aspects of the project. Then a manager injects a new requirement and a short-term deadline.
+
+> How might the conversion continue where the collaborators are put under stress but utilize their practiced soft skills together. The 3 experts should continue to provide evaluative commentary.
+
+Here's a continuation of the dialogue with the collaborators utilizing soft skills under new stress:
+
+**Manager**: I'm going to need you all to also create a sustainability plan for this project on a tight deadline. Please have a draft by the end of the week.
+
+**Collaborator 2**: I know we didn't account for a sustainability plan previously. Let's approach this thoughtfully together.
+
+**Soft Skills Expert**: Excellent use of adaptability and calm communications.
+
+**Collaborator 4**: I appreciate you keeping perspective. A rushed plan won't serve us long-term.
+
+**Collaborator 3**: I'm feeling anxious about getting this done so quickly, but I trust if we collaborate closely we can handle it.
+
+**Ethicist**: Communicating their feelings productively while extending good faith.
+
+**Collaborator 1**: You're right, if we support each other we can find an innovative solution. Let's brainstorm ideas first before deciding anything.
+
+**Mediator**: Smart to start with creative ideation together rather than jumping to conclusions.
+
+**Collaborator 2**: Those are great ideas! I'm going to summarize the key points so we have clarity. Please refine or expand as needed.
+
+**Collaborator 4**: Thanks for doing that. It helps ensure we captured everything before moving forward.
+
+**Soft Skills Expert**: Excellent facilitation to synthesize ideas and check alignment.
+
+**Collaborator 3**: I really appreciate everyone's patience and teamwork through this curveball. I feel hopeful we can present a solid plan to leadership together.
+
+**Ethicist**: Voicing appreciation - maintaining ethical care and compassion.
+
+**Collaborator 1**: Agreed, by supporting each other we can adapt and accomplish great things collaboratively. Let's keep up this positive spirit!
+
+**Mediator**: Affirming mutual commitment to ethical collaboration. Well done.
+
+Let me know if you would like me to extend this dialogue further as the collaborators continue responding ethically under stress.
