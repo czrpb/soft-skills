@@ -15,7 +15,7 @@ Here are some common soft skills:
   - **Leadership**: Guiding and motivating others to accomplish goals and complete tasks. This covers skills like delegating, decision-making, coaching, and conflict management.
   - **Emotional intelligence**: Recognizing, understanding, and regulating one's own emotions and responding appropriately to the emotions of others. Key skills are self-awareness, empathy, social skills, and self-control.
 
-Let me know if you need any clarification or have additional questions!
+*Let me know if you need any clarification or have additional questions!*
 
 ## So, that is a fine list! Let's dig into the 1st on your list: "Communication". Please list the components of communication that are relevant to soft skills.
 
@@ -31,7 +31,7 @@ Absolutely, here are some key components of communication as a soft skill:
   - **Assertiveness**: Respectfully and confidently expressing one's thoughts, feelings, and needs in an open and honest way.
   - **Mindfulness**: Being conscious of how one's verbal and nonverbal communication impacts others. Monitoring tone, body language, etc.
 
-Let me know if you need me to expand on any of these aspects of communication or provide examples!
+*Let me know if you need me to expand on any of these aspects of communication or provide examples!*
 
 ## Fantastic! Let's dig into this: Please go into more detail about "Active listening", specifically what is it and how it helps with the soft skill of "Communication".
 
@@ -156,7 +156,7 @@ Absolutely, let me follow the process for teaching empathy as a component of the
   - Discuss insights on providing empathy and identifying others' unstated feelings and perspectives.
   - Conclude with a self-reflection writing assignment on times they wish they had been more empathetic to a teammate and how that could have improved collaboration.
 
-How was that? Please let me know if I effectively applied the 5-step process for teaching empathy under the umbrella of collaboration. I'm happy to practice with other soft skills as well.
+*How was that? Please let me know if I effectively applied the 5-step process for teaching empathy under the umbrella of collaboration. I'm happy to practice with other soft skills as well.*
 
 ## Very good! This time, please follow the process for the soft skill "Creativity" and component "Innovation".
 
@@ -189,7 +189,7 @@ Here is the process for teaching innovation as a component of creativity:
   - Assign an innovation learning journal for students to record new ideas and experimentation attempts.
   - Student presentations on implementing an innovative project idea of their own, with Q&A feedback from instructor and peers.
 
-Let me know if you would like me to go through this process again for another soft skill and component. I find it valuable for practicing breaking down and teaching soft skills systematically.
+*Let me know if you would like me to go through this process again for another soft skill and component. I find it valuable for practicing breaking down and teaching soft skills systematically.*
 
 ## Now for something a bit new. For the 3 soft skills and attendant components we have discussed:
 
@@ -219,7 +219,7 @@ Here are some common moral/ethical precepts that relate to the soft skills and c
   - **Temperance**: Regulating emotions and acting prudently is a virtue. Good responses require temperance.
   - **Wisdom**: Wisdom in virtue ethics discerns fitting moral responses. Reading emotions takes wisdom and maturity.
 
-Let me know if you would like me to elaborate on any of these connections or draw additional examples from moral philosophy. Making these links helps ground soft skills in ethics.
+*Let me know if you would like me to elaborate on any of these connections or draw additional examples from moral philosophy. Making these links helps ground soft skills in ethics.*
 
 ## Imagine all these interacting together in a single moral agent. Please detail a general evaluative process by which this agent might evaluate how to respond when collaborating to achieve some goal with other agents which may or may not recognize these personal characteristics.
 
@@ -273,7 +273,7 @@ Here is one imagining of how the three experts may discuss collaborators who lac
 
 **Mediator**: "But progress will come through ongoing coaching, modeling, and thoughtful self-reflection."
 
-Does this capture how these experts might analyze and discuss the dynamics of a less effective collaboration? Let me know if you would like me to expand the dialogue.
+Does this capture how these experts might analyze and discuss the dynamics of a less effective collaboration? *Let me know if you would like me to expand the dialogue.*
 
 ## Yes, this is a good start. I notice that much from transformative mediation would also be useful, specifically that humans under conflict retreat and become self-absorbed. Conflict leads to a degeneration of communication. Thus the 1st step from transformative mediation is to return the communication between the collaborators to one where they feel personally empowered and they can recognize the shift in communication to one where everyone feels heard.
 
@@ -319,7 +319,7 @@ Here is an imagined dialog between 4 collaborators that turns conflictive then i
 
 > **Ethicist**: Wise priorities - start from a place of care, connection and mutual understanding. Well done.
 
-Let me know if you would like me to expand this dialogue further. I'm happy to keep practicing with your constructive feedback.
+*Let me know if you would like me to expand this dialogue further. I'm happy to keep practicing with your constructive feedback.*
 
 ## Yes, lets continue the dialog. Let us say the 4 collaborators come to an agreement and begin to outline the various aspects of the project. Then a manager injects a new requirement and a short-term deadline.
 
@@ -357,7 +357,7 @@ Here's a continuation of the dialogue with the collaborators utilizing soft skil
 
 > **Mediator**: Affirming mutual commitment to ethical collaboration. Well done.
 
-Let me know if you would like me to extend this dialogue further as the collaborators continue responding ethically under stress.
+*Let me know if you would like me to extend this dialogue further as the collaborators continue responding ethically under stress.*
 
 ## Let's give the 4 collaborator names:
 
@@ -406,9 +406,9 @@ Got it, here's a continuation of the dialogue where Venu's communication degrade
 
 > **Ethicist**: Recognizing interdependence and relationship - very caring.
 
-Let me know if you would like me to expand on any part of this dialogue further. I enjoyed practicing this collaborative scenario with soft skills!
+*Let me know if you would like me to expand on any part of this dialogue further. I enjoyed practicing this collaborative scenario with soft skills!*
 
-### Yes Claude, I too am having a good time working on this collaborative scenario on soft skills with you. Thanks!!
+## Yes Claude, I too am having a good time working on this collaborative scenario on soft skills with you. Thanks!!
 
 > Continuing, let's imagine the 4 collaborators need to call in a subject matter expert (SME) named Vincent. As an expert, Vincent doesn't always have a lot of time. So Vincent's communication is often short, curt and to the point. Please have the original 4 collaborators navigate working with Vincent. Because human collaboration is not always easy, the 4 collaborators should continue good communication even when Vincent is being difficult. Additional soft skills such as empathy, adaptability, self-control, mindfulness, critical thinking, etc should be employed by the original 4 collaborators even when Vincent's communication might possible degrade the group's overall communication. The 4 collaborators do not need to change Vincent, they need to use soft skills to ensure they can successfully cooperate with and while Vincent's expertise is required. Again the 3 experts should point these and all soft skills out during this session.
 
@@ -450,7 +450,7 @@ Here is an imagined continuation of the dialogue as the collaborators work with 
 
 > **Mediator**: Venu ends the engagement smoothly maintaining good will.
 
-In summary, the collaborators navigated the tension skillfully through empathy, openness, critical thinking and respect. Let me know if you would like me to expand or modify this dialogue example further.
+In summary, the collaborators navigated the tension skillfully through empathy, openness, critical thinking and respect. *Let me know if you would like me to expand or modify this dialogue example further.*
 
 ## Ok, to wrap this up, let's imagine the above interactions spanned 1 week. There were other interactions and the 3 experts were there watching and taking notes.
 
@@ -508,4 +508,4 @@ Both philosophies provide an ethical foundation for soft skills:
 
 Soft skills nurture excellence of character and caring communities. They represent ethics manifested through positive communication and conduct.
 
-Let me know if you would like me to modify or expand on any part of these summaries. I enjoyed the creative exercise of imagining these expert perspectives.
+*Let me know if you would like me to modify or expand on any part of these summaries. I enjoyed the creative exercise of imagining these expert perspectives.*
