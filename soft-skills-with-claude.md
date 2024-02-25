@@ -193,9 +193,9 @@ Let me know if you would like me to go through this process again for another so
 
 ## Now for something a bit new. For the 3 soft skills and attendant components we have discussed:
 
->  Soft skill: "Collaboration", Component: "Empathy"
->  Soft skill: "Creativity", Component: "Innovation"
->  Soft skill: "Emotional intelligence", Component: "Responding to emotions of others"
+> - Soft skill: "Collaboration", Component: "Empathy"
+> - Soft skill: "Creativity", Component: "Innovation"
+> - Soft skill: "Emotional intelligence", Component: "Responding to emotions of others"
 > 
 > Imagine you are an academic moral philosopher. Please identify common moral or ethic precepts. Be sure to look for these precepts in the moral/ethical systems of: 'Care Ethics' and 'Virtue Ethics'.
 
