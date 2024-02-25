@@ -59,14 +59,14 @@ In summary, active listening facilitates open, clear communication by showing ge
 There are several ways active listening can be taught and developed as a skill:
 
   - **Explain the principles and benefits**: Teach the fundamentals of active listening and why it is valuable for effective communication. This gives context.
-  - **Demonstrate the techniques** - Model active listening in real conversations and point out techniques like engaged body language, paraphrasing, and open-ended questions. Allow the learner to observe.
-  - **Point out good and bad examples** - Use examples of conversations where active listening is done well or done poorly. Have the learner analyze what makes each effective or ineffective.
-  - **Describe the mindset** - Encourage an attitude of genuine interest, patience, and suspension of judgment. This creates the right mindset for active listening.
-  - **Practice sessions** - Set up role play scenarios for the learner to practice active listening techniques. Give constructive feedback after.
-  - **Self-evaluation** - Have the learner record or think back on their real conversations to evaluate their own active listening skills. Where can they improve?
-  - **Reflection** - Assign the learner to reflect on their active listening progress. What's working? What remains challenging? What lessons have they learned?
-  - **Follow-up coaching** - Provide ongoing coaching and feedback as the learner tries applying active listening in real situations. Help them tackle stumbling blocks.
-  - **Peer discussions** - Facilitate discussions for learners to share their active listening experiences and advise each other on improving.
+  - **Demonstrate the techniques**: Model active listening in real conversations and point out techniques like engaged body language, paraphrasing, and open-ended questions. Allow the learner to observe.
+  - **Point out good and bad examples**: Use examples of conversations where active listening is done well or done poorly. Have the learner analyze what makes each effective or ineffective.
+  - **Describe the mindset**: Encourage an attitude of genuine interest, patience, and suspension of judgment. This creates the right mindset for active listening.
+  - **Practice sessions**: Set up role play scenarios for the learner to practice active listening techniques. Give constructive feedback after.
+  - **Self-evaluation**: Have the learner record or think back on their real conversations to evaluate their own active listening skills. Where can they improve?
+  - **Reflection**: Assign the learner to reflect on their active listening progress. What's working? What remains challenging? What lessons have they learned?
+  - **Follow-up coaching**: Provide ongoing coaching and feedback as the learner tries applying active listening in real situations. Help them tackle stumbling blocks.
+  - **Peer discussions**: Facilitate discussions for learners to share their active listening experiences and advise each other on improving.
 
 The key is providing a mix of instruction, modeling, opportunities to practice, self-evaluation, and coaching over time. This develops active listening from a concept into a natural, embedded communication skill.
 
@@ -107,13 +107,13 @@ Here is a sample lesson I would give as an expert mediator to teach active liste
 
 ## Notice the process we just followed; it goes like this:
 
-  1. Give a list of soft skills
-  2. For a soft skills list its components
-  3. For a component give its details
-  4. With the details of the component from step 3, explain how the component might be taught
-  5. Provide a lesson plan as an expert and professional mediator might teach the component from step 4
-
-Does this process make sense to you and will you be able to follow it?
+>  1. Give a list of soft skills
+>  2. For a soft skills list its components
+>  3. For a component give its details
+>  4. With the details of the component from step 3, explain how the component might be taught
+>  5. Provide a lesson plan as an expert and professional mediator might teach the component from step 4
+> 
+> Does this process make sense to you and will you be able to follow it?
 
 Yes, I understand the process and can follow it for teaching soft skills:
 
