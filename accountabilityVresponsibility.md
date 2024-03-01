@@ -54,21 +54,21 @@ Here's a comparison of accountability and responsibility in those three philosop
 
 ### Care Ethics
 
-  **Accountability**: Being responsive to others' needs, taking care of relationships. Making amends when you fail to care.
-  **Responsibility**: Having an innate duty to care for others, especially vulnerable/dependent ones. Obligation to nurture relationships.
-  **Contrast**: Accountability is more action-focused whereas responsibility is seen as an inherent moral duty.
+* **Accountability**: Being responsive to others' needs, taking care of relationships. Making amends when you fail to care.
+* **Responsibility**: Having an innate duty to care for others, especially vulnerable/dependent ones. Obligation to nurture relationships.
+* **Contrast**: Accountability is more action-focused whereas responsibility is seen as an inherent moral duty.
 
 ### Virtue Ethics
 
-  **Accountability**: Aligning actions with ethical standards, admitting mistakes, seeking self-improvement.
-  **Responsibility**: Having good judgment and wisdom to make virtuous choices. Cultivating virtuous traits.
-  **Contrast**: Accountability is maintaining moral character through actions while responsibility is focused on habituating virtues.
+* **Accountability**: Aligning actions with ethical standards, admitting mistakes, seeking self-improvement.
+* **Responsibility**: Having good judgment and wisdom to make virtuous choices. Cultivating virtuous traits.
+* **Contrast**: Accountability is maintaining moral character through actions while responsibility is focused on habituating virtues.
 
 ### Stoicism
 
-  **Accountability**: Rationally examining judgments/behaviors, admitting errors calmly, learning for the future.
-  **Responsibility**: Using reason to take control of judgments rather than blaming externals.
-  **Contrast**: Accountability is reflective while responsibility emphasizes self-control and mastery of judgments.
+* **Accountability**: Rationally examining judgments/behaviors, admitting errors calmly, learning for the future.
+* **Responsibility**: Using reason to take control of judgments rather than blaming externals.
+* **Contrast**: Accountability is reflective while responsibility emphasizes self-control and mastery of judgments.
 
 In summary, responsibility tends to refer to the duty or virtue behind moral actions, while accountability is about upholding those duties through concrete actions and a willingness to take ownership. *Let me know if this helps explain the nuanced differences!*
 
