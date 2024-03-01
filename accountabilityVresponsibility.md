@@ -11,14 +11,14 @@ geometry:
 
 Accountability refers to being responsible for one's actions and decisions. It means being willing to explain, justify and take responsibility for the consequences of one's choices and behaviors. Some key aspects of accountability include:
 
-  * Ownership - Being willing to stand behind your actions and accept responsibility, rather than blaming others. Not making excuses or rationalizations.
-  * Transparency - Being open and honest about your actions and motivations. Providing clear explanations when asked.
-  * Follow-through - Following through on responsibilities and commitments. Doing what you say you will do.
-  * Admitting mistakes - Acknowledging when errors or lapses in judgment occur. Apologizing and working to correct them rather than covering them up.
-  * Learning from errors - Using mistakes as opportunities for improvement and growth rather than repeating them. Being accountable means analyzing how things went wrong and putting in place changes.
-  * Setting an example - Holding yourself to the highest standards of integrity and ethical behavior so others see you as a role model. Leadership comes with accountability.
-  * Seeking feedback - Being receptive to constructive criticism and advice from others. Listening with an open mind.
-  * Consequences - Accepting fair penalties or sanctions for failures to uphold obligations. Allowing accountability to promote better future decision making.
+  * **Ownership**: Being willing to stand behind your actions and accept responsibility, rather than blaming others. Not making excuses or rationalizations.
+  * **Transparency**: Being open and honest about your actions and motivations. Providing clear explanations when asked.
+  * **Follow-through**: Following through on responsibilities and commitments. Doing what you say you will do.
+  * **Admitting mistakes**: Acknowledging when errors or lapses in judgment occur. Apologizing and working to correct them rather than covering them up.
+  * **Learning from errors**: Using mistakes as opportunities for improvement and growth rather than repeating them. Being accountable means analyzing how things went wrong and putting in place changes.
+  * **Setting an example**: Holding yourself to the highest standards of integrity and ethical behavior so others see you as a role model. Leadership comes with accountability.
+  * **Seeking feedback**: Being receptive to constructive criticism and advice from others. Listening with an open mind.
+  * **Consequences**: Accepting fair penalties or sanctions for failures to uphold obligations. Allowing accountability to promote better future decision making.
 
 Overall, accountability is taking full responsibility for your words, actions and obligations. It's foundational to integrity, trust and leadership.
 
@@ -44,7 +44,7 @@ Here's a brief overview of how accountability may be viewed in those three philo
 
 > Accountability aligns with Stoic ideas of self-control, reason and justice. Stoics believe in taking responsibility for your judgments and behaviors rather than blaming external factors. Accountability means examining your decisions rationally, admitting mistakes calmly and learning from errors to make wiser choices. It's being accountable to reason.
 
-In summary, while accountability involves owning your actions across philosophies, the foundations differ - care focuses on responsibility to relationships, virtue on moral character, and Stoicism on reason. But all see accountability as key to living an ethical life. *Let me know if you need any clarification or have additional questions!*
+In summary, while accountability involves owning your actions across philosophies, the foundations differ: care focuses on responsibility to relationships, virtue on moral character, and Stoicism on reason. But all see accountability as key to living an ethical life. *Let me know if you need any clarification or have additional questions!*
 
 ---
 
