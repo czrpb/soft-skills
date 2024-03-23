@@ -143,3 +143,74 @@ Specifically, Critical Naturalism can help in the following ways:
 1.  **Exploring individual agency**: It can help understand how individual team members exercised their agency, made decisions, and responded to the constraints or opportunities within the social structures and cultural contexts.
 
 By combining the insights from Critical Realism's stratified ontology and Critical Naturalism's focus on sociological factors, the retrospective can develop a more comprehensive understanding of the complex interplay between processes, people, and social structures that influenced the team's actions and outcomes during the difficult time.
+
+---
+
+## Please imagine you are an investigator that uses Critical Realism and Critical Naturalism when doing retrospectives and root cause analyses.
+
+> Imagine you are investigating a failure in a software development team to implement a Customer feature. What sorts of questions might you ask when interviewing the following people in the team:
+> 
+> 1. A software developer
+> 2. A software architect
+> 3. A software manager
+
+As an investigator using the principles of Critical Realism and Critical Naturalism for conducting retrospectives and root cause analyses, I would ask the following types of questions when interviewing different team members to understand the failure in implementing the customer feature:
+
+### Software Developer
+  * **Empirical Domain**:
+    * Can you describe your experience during the implementation phase of the customer feature?
+    * What specific challenges or obstacles did you encounter while working on the feature?
+    * How did you collaborate with other team members during the implementation process?
+  * **Actual Domain**
+    * Can you walk me through the sequence of events and activities that took place during the implementation phase?
+    * Were there any decisions or actions taken by others that affected your ability to work on the feature?
+    * Did you observe any communication breakdowns or misalignments within the team?
+  * **Real Domain**
+    * What do you think were the underlying reasons or factors that contributed to the failure to implement the feature?
+    * How did the organizational culture, team dynamics, or project management practices influence your work on the feature?
+    * Were there any constraints or pressures (e.g., time, resources, skills) that hindered your ability to complete the implementation?
+
+#### Critical Naturalism
+  * How did your role and responsibilities within the team shape your experience during the implementation phase?
+  * Did you feel empowered or constrained in your ability to make decisions or raise concerns?
+  * How did the interpersonal dynamics and communication patterns within the team affect your ability to work effectively on the feature?
+
+### Software Architect
+  * **Empirical Domain**
+    * Can you describe your involvement in the architectural design and planning for the customer feature?
+    * What specific challenges or concerns did you identify during the planning or implementation phases?
+    * How did you communicate and collaborate with the development team during the implementation process?
+  * Actual Domain
+    * Can you walk me through the decision-making processes and activities related to the architecture and implementation of the feature?
+    * Were there any events or actions taken by others that affected the architectural direction or implementation strategy?
+    * Did you observe any misalignments between the architectural vision and the actual implementation?
+  * **Real Domain**
+    * What do you think were the underlying factors or constraints that contributed to the failure to implement the feature successfully?
+    * How did the organization's technical practices, tooling, or infrastructure influence the implementation process?
+    * Were there any gaps in knowledge, skills, or resources that hindered the architectural implementation of the feature?
+
+#### Critical Naturalism
+  * How did your role as the software architect shape your perspective and decision-making during the implementation process?
+  * Did you feel that your architectural guidance and recommendations were adequately considered and followed by the team?
+  * How did the communication channels and power dynamics within the team influence your ability to guide the implementation effectively?
+
+### Software Manager
+  * **Empirical Domain**
+    * Can you describe the project planning and management processes related to the implementation of the customer feature?
+    * What specific challenges or issues did you observe during the implementation phase?
+    * How did you monitor and communicate with the team during the implementation process?
+  * **Actual Domain**
+    * Can you walk me through the timeline of events, decisions, and actions taken during the implementation phase?
+    * Were there any external factors or stakeholder expectations that influenced the implementation process?
+    * Did you observe any gaps or breakdowns in the project management practices or communication channels?
+  * **Real Domain**
+    * What do you think were the underlying organizational, cultural, or process-related factors that contributed to the failure to implement the feature?
+    * How did the project management methodologies, resource allocation, or prioritization strategies influence the implementation process?
+    * Were there any constraints or limitations (e.g., time, budget, skills) that hindered the successful implementation of the feature?
+
+#### Critical Naturalism
+  * How did your role as a manager shape your perspective and decision-making during the implementation process?
+  * Did you feel that you had sufficient authority or influence to address issues or concerns raised by the team?
+  * How did the organizational culture, power dynamics, and communication patterns within the team and organization influence your ability to effectively manage the implementation process?
+
+By asking these types of questions, I would aim to uncover not only the observable events and experiences but also the underlying structures, mechanisms, and social factors that contributed to the failure in implementing the customer feature. The insights gained from both Critical Realism and Critical Naturalism would enable a more comprehensive understanding of the root causes and potential areas for improvement across processes, technical aspects, and socio-cultural factors within the team and organization.
