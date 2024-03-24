@@ -5,6 +5,8 @@ geometry:
 
 # Discussion w/ Claude on Accountability vs Responsibility
 
+https://claude.ai/chat/0461c9e1-b415-4779-a8d0-2b0e8e42601b
+
 ---
 
 ## What is accountability? What does it mean to be accountable?

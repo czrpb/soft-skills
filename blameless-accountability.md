@@ -5,6 +5,8 @@ geometry:
 
 # Discussion w/ Claude on Accountability in Blameless Retrospectives
 
+https://claude.ai/chat/695343dc-595c-4885-8d64-3b14b01e0072
+
 ---
 
 ## When teams are addressing issues, it is often said that we are not look for someone to blame. An example of this is the "blameless" retrospective.

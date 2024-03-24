@@ -5,6 +5,8 @@ geometry:
 
 # Applying Critical Realism to Software Project Retrospectives
 
+https://claude.ai/chat/a2f16220-0f09-4fa9-9380-ccfe0e4ea1f7
+
 ---
 
 ## I would like to have a discussion about how Critical Realism can be used when doing retrospectives/postmortems in software development projects.
