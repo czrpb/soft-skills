@@ -588,7 +588,9 @@ The discussion between the expert practitioner of soft skills, the moral/ethical
 
 ---
 
-## Continuing, let's imagine the 4 collaborators need to call in a subject matter expert (SME) named Vincent. As an expert, Vincent doesn't always have a lot of time. So Vincent's communication is often short, curt and to the point. Please have the original 4 collaborators navigate working with Vincent. Because human collaboration is not always easy, the 4 collaborators should continue good communication even when Vincent is being difficult. Additional soft skills such as empathy, adaptability, self-control, mindfulness, critical thinking, etc should be employed by the original 4 collaborators even when Vincent's communication might possible degrade the group's overall communication. The 4 collaborators do not need to change Vincent, they need to use soft skills to ensure they can successfully cooperate with and while Vincent's expertise is required. Again the 3 experts should point these and all soft skills out during this session.
+## Continuing, let's imagine the 4 collaborators need to call in a subject matter expert (SME) named Vincent.
+
+> As an expert, Vincent doesn't always have a lot of time. So Vincent's communication is often short, curt and to the point. Please have the original 4 collaborators navigate working with Vincent. Because human collaboration is not always easy, the 4 collaborators should continue good communication even when Vincent is being difficult. Additional soft skills such as empathy, adaptability, self-control, mindfulness, critical thinking, etc should be employed by the original 4 collaborators even when Vincent's communication might possible degrade the group's overall communication. The 4 collaborators do not need to change Vincent, they need to use soft skills to ensure they can successfully cooperate with and while Vincent's expertise is required. Again the 3 experts should point these and all soft skills out during this session.
 
 **Venu**: "Alright, team, I think it's time we bring in Vincent, the subject matter expert, to help us address some of the technical challenges we're facing."
 
@@ -644,9 +646,9 @@ The discussion between the expert practitioner of soft skills, the moral/ethical
 
 > I would like you to generate the following for each of the 3 experts:
 > 
-> 1. Soft Skills Expert: This expert should detail in their notes the soft skills they witnessed, how they were used by the collaborators, and examples of the trade-offs between soft skills in different contexts.
-> 2. Mediator: This expert should detail in their personal journal what they learned by watching how the collaborators communicated using their soft skills and how this learning can be taught to other mediators.
-> 3. Ethicist: This expert should write a small paper for a philosophy journal about how Care and Virtue ethics are the foundation of soft skills.
+> 1. **Soft Skills Expert**: This expert should detail in their notes the soft skills they witnessed, how they were used by the collaborators, and examples of the trade-offs between soft skills in different contexts.
+> 2. **Mediator**: This expert should detail in their personal journal what they learned by watching how the collaborators communicated using their soft skills and how this learning can be taught to other mediators.
+> 3. **Ethicist**: This expert should write a small paper for a philosophy journal about how Care and Virtue ethics are the foundation of soft skills.
 
 ### Soft Skills Expert's Notes
 
