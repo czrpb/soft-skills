@@ -2,7 +2,7 @@
 
 ## We will be writing a racket computer program that creates a markdown down file with links and descriptions to the PDF files in a directory. Here are the requirements:
 
-> 1.INPUTS
+> 1. INPUTS
 >     1. From the command line, the directory to scan with the PDF files to index. If none is given, then default to the current directory.
 >     1. A list of PDF files in the directory from the previous input directly above.
 >     1. The previous output in the file named "README.md", if the file exists
