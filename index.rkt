@@ -15,9 +15,13 @@
       (current-directory)
       (vector-ref (current-command-line-arguments) 0)))
 
-; Function to get the list of PDF files in the directory
+; Function to get the list of PDF files in the directory and display them
 (define (get-pdf-files directory)
-  (filter pdf-file? (directory-list directory)))
+  (let ((pdf-files (filter pdf-file? (directory-list directory))))
+    (for-each (lambda (pdf-file)
+                (printf "Found PDF file: ~a\n" (path->string pdf-file)))
+              pdf-files)
+    pdf-files))
 
 ; Function to read the existing README.md file, if it exists
 (define (read-existing-readme directory)

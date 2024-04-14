@@ -74,3 +74,9 @@ Attempting to derive TWS in collab w/ Claude.
 
 [who-am-i-3.pdf](who-am-i-3.pdf)
 
+## create-index-script.pdf
+
+A convo to create the racket script that updates the README.md file with a new section if a new PDF is found.
+
+[create-index-script.pdf](create-index-script.pdf)
+
