@@ -4,10 +4,10 @@
 (require racket/function)
 
 ; Curried function to check if a file has a specific extension
-(define path-has-extension?/curry (curry path-has-extension?))
+(define path-has-extension?/curryr (curryr path-has-extension?))
 
 ; Partial function to check if a file is a PDF
-(define pdf-file? (path-has-extension?/curry ".pdf"))
+(define pdf-file? (path-has-extension?/curryr ".pdf"))
 
 ; Function to get the directory path from command line arguments or use the current directory
 (define (get-directory-path)
