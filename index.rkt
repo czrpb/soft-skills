@@ -11,7 +11,7 @@
 
 ; Function to get the directory path from command line arguments or use the current directory
 (define (get-directory-path)
-  (if (null? (current-command-line-arguments))
+  (if (vector-empty? (current-command-line-arguments))
       (current-directory)
       (vector-ref (current-command-line-arguments) 0)))
 
