@@ -3,11 +3,11 @@
 (require racket/system)
 (require racket/function)
 
-; Curried function to check if a file has a specific suffix
-(define string-suffix?/curry (curry string-suffix?))
+; Curried function to check if a file has a specific extension
+(define path-has-extension?/curry (curry path-has-extension?))
 
 ; Partial function to check if a file is a PDF
-(define pdf-file? (string-suffix?/curry ".pdf"))
+(define pdf-file? (path-has-extension?/curry ".pdf"))
 
 ; Function to get the directory path from command line arguments or use the current directory
 (define (get-directory-path)
@@ -28,15 +28,16 @@
 
 ; Partial function to create a regular expression for a PDF file section
 (define (pdf-section-regexp/partial pdf-file)
-  (regexp (string-append "## " pdf-file)))
+  (regexp (string-append "## " (path->string pdf-file))))
 
 ; Function to create a markdown section for a PDF file
 (define (create-markdown-section pdf-file)
-  (printf "Enter a description for ~a: " pdf-file)
-  (let ((description (read-line)))
-    (string-append "## " pdf-file "\n\n"
-                   description "\n\n"
-                   "[" pdf-file "](" pdf-file ")\n\n")))
+  (let ((pdf-file-string (path->string pdf-file)))
+    (printf "Enter a description for ~a: " pdf-file-string)
+    (let ((description (read-line)))
+      (string-append "## " pdf-file-string "\n\n"
+                     description "\n\n"
+                     "[" pdf-file-string "](" pdf-file-string ")\n\n"))))
 
 ; Function to write the updated README.md file
 (define (write-readme directory content)
