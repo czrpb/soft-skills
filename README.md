@@ -12,7 +12,7 @@ See the [LICENSE](LICENSE) file and:
 
 ### Credit
 
-To the extent there should be any recognition, yes it would be nice if you used my name: `Quentin Crain`.
+Not withstanding you being held to the specifics of the license above, yes it would be nice if you used my name: `Quentin Crain` somewhere! &#x1f601;
 
 Obviously, the bulk of the credit goes to humanity which is the "data" behind Claude.
 
