@@ -87,11 +87,11 @@ This program does the following:
 
 To run this program, save it as a `.rkt` file and run it from the command line, optionally providing the directory path as an argument. The program will prompt you to enter descriptions for the new PDF files and will generate or update the `README.md` file in the specified directory.
 
-## Right from the beginning, you have made this mistake before: current-command-line-arguments is a vector and thus car wont work.
+## Right from the beginning, you have made this mistake before: `current-command-line-arguments` is a vector and thus `car` wont work.
 
 > Please fix this.
 
-Apologies for the mistake. You're right, `current-command-line-arguments` returns a vector, so we need to use `vector-ref` instead of car. Here's the corrected version of the `get-directory-path` function:
+Apologies for the mistake. You're right, `current-command-line-arguments` returns a vector, so we need to use `vector-ref` instead of `car`. Here's the corrected version of the `get-directory-path` function:
 
 ```racket
 ; Function to get the directory path from command line arguments or use the current directory
@@ -166,7 +166,7 @@ With this correction, the program should work as expected, properly handling the
 
 > I prefer the coding style of creating simple functions and then giving those functions to the functional looping constructs such as `map`, `fold`, `filter`, etc.
 > 
-> To do this I very much link to use curry and partial to create curried and partial functions respectfully.
+> To do this I very much link to use `curry` and `partial` to create curried and partial functions respectfully.
 > 
 > In this case, you can curry the function `string-suffix?` with a 1st argument of ".pdf" and then this curried function is given to the filter function.
 > 
