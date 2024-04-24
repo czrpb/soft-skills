@@ -84,3 +84,16 @@ A convo to create the racket script that updates the README.md file with a new s
 
 [create-index-script.pdf](create-index-script.pdf)
 
+## computerscience-pairingheap.pdf
+
+A discussion about creating a training presentation on a Pairing Heap.
+
+[computerscience-pairingheap.pdf](computerscience-pairingheap.pdf)
+
+
+## computerscience-tries.pdf
+
+A discussion about understanding the trie data structure.
+
+[computerscience-tries.pdf](computerscience-tries.pdf)
+
