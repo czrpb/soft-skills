@@ -9,15 +9,24 @@ html {
   -ms-text-size-adjust: 100%;
 }
 
-body {
+main {
   color: #444;
   font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
   font-size: 12px;
   line-height: 1.7;
   padding: 1em;
-  margin: 0 auto;
+  margin: auto auto auto 25em;
   max-width: 64em;
   background: #fefefe;
+  top: 0;
+  position: absolute;
+}
+
+nav {
+  position: sticky;
+  left: 0;
+  top: 0;
+  max-width: 20em;
 }
 
 a {
@@ -251,12 +260,12 @@ table td {
 }
 
 @media only screen and (min-width: 480px) {
-  body {
+  main {
     font-size: 14px;
   }
 }
 @media only screen and (min-width: 768px) {
-  body {
+  main {
     font-size: 16px;
   }
 }
@@ -268,7 +277,7 @@ table td {
     -ms-filter: none !important;
   }
 
-  body {
+  main {
     font-size: 12pt;
     max-width: 100%;
   }
