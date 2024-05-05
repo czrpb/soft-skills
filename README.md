@@ -97,3 +97,16 @@ A discussion about understanding the trie data structure.
 
 [computerscience-tries.pdf](computerscience-tries.pdf)
 
+## good-requirements.pdf
+
+A chat about creating SW requirements. Gave Claude some PDFs of IEEE and NASA requirement specifications.
+
+[good-requirements.pdf](good-requirements.pdf)
+
+
+## holistic-software-team-retrospective.pdf
+
+A chat about how to run a retrospect with the underlying philosophies of Critical Realism, Care Ethics, and Transformative Mediation.
+
+[holistic-software-team-retrospective.pdf](holistic-software-team-retrospective.pdf)
+
