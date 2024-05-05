@@ -7,7 +7,7 @@ https://claude.ai/chat/4266e0f9-bbc9-4dca-b8aa-51180707f75f
 ## I would like to create a detail specification that documents how a retrospective ought to be done for a software team.
 
 > Be sure to pull best practices from the following theories:
-
+> 
 > 1. Critical Realism
 > 1. Care Ethics
 > 1. Transformative Mediation
