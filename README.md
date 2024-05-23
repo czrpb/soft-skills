@@ -110,3 +110,9 @@ A chat about how to run a retrospect with the underlying philosophies of Critica
 
 [holistic-software-team-retrospective.pdf](holistic-software-team-retrospective.pdf)
 
+## human-behavior-in-failure-analysis.pdf
+
+A discussion about human factors with a focus on how it applies to failure analysis, RCA, retrospectives, etc.
+
+[human-behavior-in-failure-analysis.pdf](human-behavior-in-failure-analysis.pdf)
+
