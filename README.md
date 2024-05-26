@@ -116,3 +116,9 @@ A discussion about human factors with a focus on how it applies to failure analy
 
 [human-behavior-in-failure-analysis.pdf](human-behavior-in-failure-analysis.pdf)
 
+## cr_tm-ai_convo-review.pdf
+
+Claude review a convo I had via Chatter with the models phi3 and llama3 on Critical Realism / Transformative Mediation. I then go deeper w/ Claude.
+
+[cr_tm-ai_convo-review.pdf](cr_tm-ai_convo-review.pdf)
+
